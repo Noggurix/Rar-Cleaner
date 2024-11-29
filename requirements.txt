@@ -1,0 +1,2 @@
+customtkinter
+send2trash
